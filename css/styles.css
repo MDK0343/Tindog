@@ -55,6 +55,8 @@ p{
 .nav-link{
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /* Title Image */
